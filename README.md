@@ -6,6 +6,8 @@
 * Formulated push and pull factors, job stories and product vision  
 * Performed UX testing by conducting 5 semi-structured interviews  
 
+<sub>Note: this project is not affiliated with VK.com and presents my vision of non-existent product.</sub>
+
 ## > tech & tools  
 * Interactive prototype: Figma  
 * Brainstorming workshop, mind mapping: Miro  
