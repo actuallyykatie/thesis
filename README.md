@@ -8,6 +8,10 @@
 
 <sub>Note: this project is not affiliated with VK.com and presents my vision of non-existent product.</sub>
 
+Presentation file is available in the repository, [here](https://drive.google.com/file/d/1t_P0cTFW8UlDA_vxRODO1kj0Mg3Axu9A/view) or via QR:
+
+<img src="/master_thesis_QR.png" width="100">
+
 ## > tech & tools  
 * Interactive prototype: Figma  
 * Brainstorming workshop, mind mapping: Miro  
@@ -21,3 +25,4 @@
 **Period:** Mar 2022 - Jun 2022  
 **Supervisor:** Ph.D. in Computer Science, Associate Professor, Department of Mathematics, Alexander Sirotkin  
 **Grade:** 10/10, A+  
+
