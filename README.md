@@ -20,9 +20,9 @@ Presentation file is available in the repository, [here](https://drive.google.co
 
 ## > other info
 **What is it:** Graduation thesis  
+**Grade:** 10/10, A+ :woman_technologist:    
 **Field of study:** Applied Mathematics and Informatics  
 **Degree programme:** Information Systems and Human-Computer Interaction  
 **Period:** Mar 2022 - Jun 2022  
 **Supervisor:** Ph.D. in Computer Science, Associate Professor, Department of Mathematics, Alexander Sirotkin  
-**Grade:** 10/10, A+  
 
